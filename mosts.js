@@ -16,3 +16,9 @@ for (i = 0; i< nodes.length; i++){
 
 console.log(nodes[likes.index]); // for most liked
 console.log(nodes[comments.index]); // for most commented
+
+
+/*
+Notes:
+run it on browser's console, and please load all the data in the account first (I may add this that functionality in the feature)
+*/
