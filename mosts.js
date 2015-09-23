@@ -20,5 +20,5 @@ console.log(nodes[comments.index]); // for most commented
 
 /*
 Notes:
-run it on browser's console, and please load all the data in the account first (I may add that functionality in the feature)
+run it on browser's console, and please load all the data in the account first (I may add that functionality in the future)
 */
